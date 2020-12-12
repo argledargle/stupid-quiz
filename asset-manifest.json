@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stupid-quiz/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/stupid-quiz/static/js/main.344be79d.chunk.js",
+    "main.js.map": "/stupid-quiz/static/js/main.344be79d.chunk.js.map",
+    "runtime-main.js": "/stupid-quiz/static/js/runtime-main.a303d14b.js",
+    "runtime-main.js.map": "/stupid-quiz/static/js/runtime-main.a303d14b.js.map",
+    "static/css/2.bf32d45e.chunk.css": "/stupid-quiz/static/css/2.bf32d45e.chunk.css",
+    "static/js/2.9c242af7.chunk.js": "/stupid-quiz/static/js/2.9c242af7.chunk.js",
+    "static/js/2.9c242af7.chunk.js.map": "/stupid-quiz/static/js/2.9c242af7.chunk.js.map",
+    "static/js/3.bf7804ba.chunk.js": "/stupid-quiz/static/js/3.bf7804ba.chunk.js",
+    "static/js/3.bf7804ba.chunk.js.map": "/stupid-quiz/static/js/3.bf7804ba.chunk.js.map",
+    "index.html": "/stupid-quiz/index.html",
+    "static/css/2.bf32d45e.chunk.css.map": "/stupid-quiz/static/css/2.bf32d45e.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/stupid-quiz/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.9c242af7.chunk.js.LICENSE.txt": "/stupid-quiz/static/js/2.9c242af7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a303d14b.js",
+    "static/css/2.bf32d45e.chunk.css",
+    "static/js/2.9c242af7.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.344be79d.chunk.js"
+  ]
+}

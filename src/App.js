@@ -1,25 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import Quiz from 'react-quiz-component'
+import quiz from './quiz/quiz'
+import results from './results/results'
+// see https://github.com/neetos-llc/react-quiz-components for details on how to use quiz component
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <Quiz quiz={quiz} showDefaultResult={false} customResultPage={results}/>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

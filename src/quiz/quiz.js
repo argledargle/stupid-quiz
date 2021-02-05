@@ -1,29 +1,107 @@
 // the quiz data goes here
 
 const quiz = {
-  quizTitle: 'What is your dirty elf name?',
-  quizSynopsis: 'Find out which slutty elf name suits you',
+  quizTitle: 'Shitty Conspiracy Theories',
+  quizSynopsis: 'Which shitty conspiracy theory are you?',
   questions: [
     {
-      question: "What's the first initial of your last name?",
+      question: "What's your birth month?",
       answerSelectionType: 'single',
       questionType: 'text',
-      answers: ['A-H', 'I-P', 'Q-Z'],
-      correctAnswer: ['1', '2', '3']
+      answers: [
+        'January',
+        'February',
+        'March',
+        'April',
+        'May',
+        'June',
+        'July',
+        'August',
+        'September',
+        'October',
+        'November',
+        'December'
+      ],
+      correctAnswer: [
+        '1',
+        '2',
+        '3',
+        '4',
+        '5',
+        '6',
+        '7',
+        '8',
+        '9',
+        '10',
+        '11',
+        '12'
+      ]
     },
     {
-      question: 'What season were you born in?',
+      question: 'What is your favorite color?',
       answerSelectionType: 'single',
       questionType: 'text',
-      answers: ['Spring', 'Summer', 'Autumn', 'Winter'],
-      correctAnswer: ['1', '2', '3', '4']
+      answers: [
+        'Red',
+        'Orange',
+        'Yellow',
+        'Green',
+        'Blue',
+        'Purple',
+        'Grey',
+        'Black',
+        'Pink',
+        'Silver',
+        'Taupe',
+        'Indigo'
+      ],
+      correctAnswer: [
+        '1',
+        '2',
+        '3',
+        '4',
+        '5',
+        '6',
+        '7',
+        '8',
+        '9',
+        '10',
+        '11',
+        '12'
+      ]
     },
     {
-      question: 'On which day of the month were you born?',
+      question: 'What is your first initial?',
       answerSelectionType: 'single',
       questionType: 'text',
-      answers: ['1-7', '8-16', '17-25', '26-31'],
-      correctAnswer: ['1', '2', '3', '4']
+      answers: [
+        'A or B',
+        'C or D',
+        'E or F',
+        'G or H',
+        'I or J',
+        'K or L',
+        'M or N',
+        'O or P',
+        'Q or R',
+        'S or T',
+        'U, V or W',
+        'X, Y or Z'
+      ],
+      correctAnswer: [
+        '1',
+        '2',
+        '3',
+        '4',
+        '5',
+        '6',
+        '7',
+        '8',
+        '9',
+        '10',
+        '11',
+        '12'
+      ]
     }
   ]
 }
